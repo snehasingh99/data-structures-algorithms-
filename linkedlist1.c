@@ -1,3 +1,10 @@
+/*
+Implementation of stack using Linked List and perform the following operations
+1. PUSH
+2. POP
+3. PRINT
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
